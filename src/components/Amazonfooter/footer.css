@@ -1,0 +1,26 @@
+#foooterContianer{
+    background-color: black;
+    color:white ;
+    display: flex;
+     gap: 150px;
+    padding: 50px;
+      
+    
+
+}
+#contianer3{
+    display: flex;
+    background-color:#232F3E;
+    justify-content: space-evenly;
+     color: white;
+    
+
+}
+#p{
+    text-align: center;
+    color:white ;
+    background-color:#232F3E;
+
+}
+    
+

@@ -1,0 +1,75 @@
+#card{
+    background-color: rgb(129, 132, 136);
+     height: 400px;
+     width: 100%;
+     gap: 25px;
+     display: flex;
+}
+#card1{
+    
+    background-color: bisque;
+    width: 300px;
+    height: 350px;
+    margin: 10px;
+    text-align: center;
+    
+    
+
+}
+#card2{
+    
+    background-color: bisque;
+    width: 300px;
+    height: 350px;
+    margin: 10px;
+    text-align: center;
+
+}
+#card3{
+    
+    background-color: bisque;
+    width: 300px;
+    height: 350px;
+    margin: 10px;
+    text-align: center;
+
+}
+#card4{
+    
+    background-color: bisque;
+    width: 300px;
+    height: 350px;
+    margin: 10px;
+    text-align: center;
+
+}
+#image1{
+    display: flex;
+    gap:8px;
+    margin: 15px;
+}
+#image2{
+    display: flex;
+    gap:8px;
+    margin:10px ;
+
+
+}
+#image4{
+    display: flex;
+    gap:8px;
+    margin: 15px;
+}
+#image5{
+    display: flex;
+    gap:8px;
+    margin: 15px;
+}
+
+#sub{
+    background-color: rgb(235, 148, 17);
+    border-radius: 60px;
+}
+#imags6{
+    margin:5px ;
+}
